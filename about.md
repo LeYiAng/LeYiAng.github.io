@@ -3,4 +3,7 @@ title: About
 permalink: /about/
 ---
 
-## Leyiang
+Welcome! This is Leyiang. I hope that you can meet something helpful on my blog.
+
+Here is my email you may need someday:
+` yiangforwork@gmail.com `
