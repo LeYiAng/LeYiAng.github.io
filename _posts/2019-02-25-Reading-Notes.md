@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Feb. 25 读书笔记"
-description: "Feb. 25 读书笔记"
+title: "Feb. 25 读书笔记 《苏菲的世界》"
+description: "最早的希腊哲学家对所处的世界有着极强的好奇心，他们用自己的眼睛观察身边的万事万物..."
 date: 2019-02-25
 tags: [notes]
 comments: true
