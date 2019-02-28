@@ -2,7 +2,7 @@
 layout: post
 title: "Feb. 25 读书笔记"
 description: "Feb. 25 读书笔记"
-date: 2019-02-125
+date: 2019-02-25
 tags: [notes]
 comments: true
 share: true
