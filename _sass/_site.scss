@@ -43,7 +43,6 @@ body {
 
     a {
       color: $base-color;
-      margin-right: 0.8rem;
       &:hover,
       &:focus {
         text-decoration: none;
@@ -59,11 +58,11 @@ body {
   &-nav {
     a {
       color: $oc-gray-5;
-      text-transform: lowercase;
+      
       -webkit-transition: all .2s ease;
          -moz-transition: all .2s ease;
               transition: all .2s ease;
-      margin-right: .3rem;
+      margin-right: .8rem;
 
       &:hover,
       &:focus {
