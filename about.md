@@ -3,7 +3,6 @@ title: About
 permalink: /about/
 ---
 
-Welcome! This is Leyiang. I hope that you can meet something helpful on my blog.
-
-Here is my email you may need someday:
-` yiangforwork@gmail.com `
+### Welcome!
+#### I'm Le Yiang, currently attending SSPU, majoring in Computer Science.
+#### I hope that you will meet something helpful on my blog, and if you have any problem, feel free to ask me(By the email below)!
