@@ -29,10 +29,6 @@ copyright:
 # Google-analytics
 google-analytics:
   id:               ""
-
-# Disqus
-disqus:
-  id:               "leyiang-com"
                      
 # URL
 url:                "https://leyiang.github.io" # the base hostname & protocol for your site
