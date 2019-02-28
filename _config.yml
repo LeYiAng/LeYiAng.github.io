@@ -6,20 +6,20 @@
 name:               "Leyiang"
 
 author:
-  facebook:         your-id
-  youtubeUser:      your-id
-  youtubeChannel:   your-id
-  twitter:          your-id
+#  facebook:         your-id
+#  youtubeUser:      your-id
+#  youtubeChannel:   your-id
+#  twitter:          your-id
   github:           your-id
   stackoverflow:    your-id
   quora:            your-id
   linkedin:         your-id
-  pinterest:        your-id
-  googlePlus:       your-id
-  instagram:        your-id
-  reddit:           your-id
-  medium:           your-id
-  tumblr:           your-id
+#  pinterest:        your-id
+#  googlePlus:       your-id
+#  instagram:        your-id
+#  reddit:           your-id
+#  medium:           your-id
+#  tumblr:           your-id
   email:            yiangforwork@gmail.com
 
 copyright:
@@ -32,7 +32,7 @@ google-analytics:
 
 # Disqus
 disqus:
-  id:               "kiko-plus"
+  id:               "Leyiang"
 
 # URL
 url:                "https://leyiang.github.io" # the base hostname & protocol for your site
