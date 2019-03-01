@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mar. 01 读书笔记 《苏菲的世界》"
-description: "最早的希腊哲学家对所处的世界有着极强的好奇心..."
+description: "文字是流动的吗..."
 date: 2019-03-01
 tags: [notes]
 ---
