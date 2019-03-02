@@ -28,7 +28,7 @@ copyright:
 
 # Google-analytics
 google-analytics:
-  id:               ""
+  id:               "UA-135455080-1"
                      
 # URL
 url:                "https://leyiang.github.io" # the base hostname & protocol for your site
@@ -57,8 +57,8 @@ nav:
     url:            "/archive"
   - name:           "Tags"
     url:            "/tags"
-  - name:           "Github"
-    url:            "https://github.com/leyiang"
+  - name:           "Poem"
+    url:            "/poem"
 
 # Sass
 sass:
