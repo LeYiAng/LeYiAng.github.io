@@ -3,7 +3,7 @@ title: Chinese Poem
 permalink: /poem/
 ---
 
-### 詩名: 杜 少 府 之 任 蜀 州
+### 詩名: 送 杜 少 府 之 任 蜀 州
 
 作者: 王 勃 　　 詩體: 五 言 律 詩 
 
