@@ -4,5 +4,5 @@ permalink: /about/
 ---
 
 ### Welcome!
-#### I'm Le Yiang, currently attending SSPU, majoring in Computer Science.
-#### I hope that you will meet something helpful on my blog, and if you have any problem, feel free to ask me(By the email below)!
+#### I'm Le Yiang, currently attending a college in China, majoring in Computer Science.
+#### If there's anything you need help, feel free to ask me by the email address below.
