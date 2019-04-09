@@ -2,7 +2,7 @@
 title: About
 permalink: /about/
 ---
-![LOGO](https://raw.githubusercontent.com/leyiang/leyiang.github.io/master/assets/images/leyiang.png)
+![LOGO](https://github.com/leyiang/leyiang.github.io/blob/master/assets/images/Leyiang.png)
 
 ### Welcome!
 #### I'm Le Yiang, currently attending a college in China, majoring in Computer Science.
