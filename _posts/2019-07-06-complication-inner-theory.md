@@ -12,3 +12,7 @@ tags: [Linux, gcc, c, compilation]
 + 编译阶段 (Compilation Phase)
 + 汇编阶段 (Assembly Phase)
 + 链接阶段 (Linking Phase)
+
+## 预处理阶段
+在本阶段GCC会解析所有以 `#` 开头的语句，如 `include` - GCC 会将 `include` 引入的代码一股脑儿的全放到代码的头部。
+可用 `gcc -E filename` 查看预处理阶段的结果。
