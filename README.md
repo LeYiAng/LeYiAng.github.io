@@ -1,3 +1,5 @@
-# Leyiang's blog.
+# Blog.
 
-### Themed by Kiko Plus
+### Document all my notes.
+
+- Themed by Kiko Plus
